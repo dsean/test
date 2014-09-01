@@ -14,7 +14,7 @@
 {
     // Override point for customization after application launch.
     if(TRUE){
-        NSLog(@"DJKFHJKLSHFJKLHSJGHJKLDHSGHJKDFSHGK");
+        NSLog(@"DJKFHJKLSHFJKLHSJGHJKLDHSGHJKDFSHGK");//
         NSLog(@"DJKFHJKLSHFJKLHSJGHJKLDHSGHJKDFSHGK");
         
         NSLog(@"DJKFHJKLSHFJKLHSJGHJKLDHSGHJKDFSHGK");
